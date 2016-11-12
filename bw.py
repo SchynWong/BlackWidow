@@ -37,3 +37,4 @@ def db_blackwidow_dumper(dump_path, dump_name):
     f.close()
 csv(main())
 #Blackwidow by SchynWong
+#Ref https://github.com/hassaanaliw/chromepass

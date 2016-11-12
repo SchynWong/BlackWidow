@@ -36,4 +36,4 @@ def db_blackwidow_dumper(dump_path, dump_name):
     client.put_file('/'+dump_name+'.csv', f)
     f.close()
 csv(main())
-#Blackwidow by Aitrebil (SchynWong)
+#Blackwidow by SchynWong
